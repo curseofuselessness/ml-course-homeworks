@@ -1,20 +1,21 @@
-# Python
-__pycache__/
-*.py[cod]
-*.so
-.Python
-
-# Environments
-.venv/
+# Виртуальное окружение (папки)
 venv/
 env/
-.conda/
-.mamba/
+.env/
+myenv/
+.venv/
 
-# Jupyter
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter кэш
 .ipynb_checkpoints/
-*/.ipynb_checkpoints/
+.jupyter/
 
-# OS
-.DS_Store
-Thumbs.db
+# IDE настройки
+.vscode/
+.idea/
+*.sublime-*
