@@ -7,7 +7,7 @@
 Каждая работа оформлена как отдельный ноутбук или скрипт с выводами, визуализациями и метриками качества.
 
 **Стек технологий:**  
-`Python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `SciPy`, `XGBoost`, `LightGBM`, `CatBoost`, `plotly` 
+`Python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `scikit-learn`, `SciPy`, `XGBoost`, `LightGBM`, `CatBoost`, `SHAP`
 
 ## Статус выполнения
 
