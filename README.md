@@ -24,7 +24,7 @@
 | hw09_forest | ✅ |
 | hw10_boosting | ✅ |
 | hw11_HyperParameters | ✅ |
-| hw12_Clustering_KMeans_DBSCAN | ❌ |
+| hw12_Clustering_KMeans_DBSCAN | ✅ |
 | hw13_PCA | ❌ |
 ---
 
